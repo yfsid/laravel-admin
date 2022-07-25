@@ -3,8 +3,8 @@
 ## Laravel Admin
 
 - Install Laravel v9.21.6 on PHP v8.1.8
-- Install JetStream With Livewire
-- Install Laravel Debugbar
+- Install JetStream With Livewire, documentation [Here](https://jetstream.laravel.com/2.x/introduction.html "Laravel JetStream documentation").
+- Install Laravel Debugbar, documentation [Here](https://github.com/barryvdh/laravel-debugbar "Github Laravel Debugbar").
 
 ## License
 
