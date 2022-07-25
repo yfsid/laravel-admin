@@ -4,6 +4,7 @@
 
 - Install Laravel v9.21.6 on PHP v8.1.8
 - Install JetStream With Livewire
+- Install Laravel Debugbar
 
 ## License
 
